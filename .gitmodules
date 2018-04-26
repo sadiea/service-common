@@ -1,0 +1,3 @@
+[submodule "igix-service-common"]
+	path = igix-service-common
+	url = git@gitlab.igix.com:igix-service/igix-service-common.git
